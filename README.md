@@ -31,7 +31,7 @@ Para instalar o Visual Studio Code na sua máquina você precisará:
 * Na barra de pesquisa digite "Visual Studio Code"
 * Na resposta da pesquisa entre na primeira opção de site
 * Click na caixa "Download for Windows"
-*O aplicativo será baixado e assim que terminar você poderá abri-lo e executar o passo a passo do prórprio aplicativo para instalá-lo.
+* O aplicativo será baixado e assim que terminar você poderá abri-lo e executar o passo a passo do prórprio aplicativo para instalá-lo.
 ```
 
 Caso você TENHA o Visual Studio Code(VSCode) instalado:
